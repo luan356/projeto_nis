@@ -32,7 +32,7 @@ A estrutura do banco de dados e o DUMP está disponível na pasta `db`. Certifiq
    cd projeto_nis
    ```
 
-3. Configure seu banco de dados PostgreSQL no arquivo de configuração da aplicação.
+3. Configure seu banco de dados PostgreSQL no arquivo de configuração da aplicação. (Database.php)
 4. Execute a aplicação utilizando o XAMPP.
 
 ## Como Testar com Postman
