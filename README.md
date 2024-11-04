@@ -42,7 +42,7 @@ Para testar as funcionalidades, você pode utilizar o Postman. Abaixo estão exe
 ### 1. Cadastrar um Cidadão
 
 - **Método**: `POST`
-- **URL**: `http://localhost/gesuas_desafio_backend/projeto_nis/index.php`
+- **URL**: `http://localhost/projeto_nis/index.php`
 - **Corpo da Requisição**:
 ```json
 {
@@ -54,7 +54,7 @@ Para testar as funcionalidades, você pode utilizar o Postman. Abaixo estão exe
 ### 2. Visualizar um Cidadão pelo NIS
 
 - **Método**: `GET`
-- **URL**: `http://localhost/gesuas_desafio_backend/projeto_nis/index.php`
+- **URL**: `http://localhost/projeto_nis/index.php`
 - **Corpo da Requisição**:
 ```json
 {
@@ -66,7 +66,7 @@ Para testar as funcionalidades, você pode utilizar o Postman. Abaixo estão exe
 ### 3. Atualizar o Nome de um Cidadão
 
 - **Método**: `POST`
-- **URL**: `http://localhost/gesuas_desafio_backend/projeto_nis/index.php`
+- **URL**: `http://localhost/projeto_nis/index.php`
 - **Corpo da Requisição**:
 ```json
 {
@@ -79,7 +79,7 @@ Para testar as funcionalidades, você pode utilizar o Postman. Abaixo estão exe
 ### 4. Deletar um Cidadão
 
 - **Método**: `DELETE`
-- **URL**: `http://localhost/gesuas_desafio_backend/projeto_nis/index.php`
+- **URL**: `http://localhost/projeto_nis/index.php`
 - **Corpo da Requisição**:
 ```json
 {
