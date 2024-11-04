@@ -1,0 +1,17 @@
+{
+    "name": "luan/projeto_nis",
+    "description": "cadastro de cidadao e nis",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App/"        }
+    },
+    "authors": [
+        {
+            "name": "Luan Araujo",
+            "email": "luan.info3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
