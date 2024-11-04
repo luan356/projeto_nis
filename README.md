@@ -25,14 +25,14 @@ A estrutura do banco de dados e o DUMP está disponível na pasta `db`. Certifiq
 
    ```bash
    git clone https://github.com/luan356/projeto_nis.git
-   cd projeto_nis
+  
    ```
 
-2. Instale as dependências com o Composer:
+2. Navegue ate o diretorico correto
 
    ```bash
-   composer install
-   ```
+ cd projeto_nis
+    ```
 
 3. Configure seu banco de dados PostgreSQL no arquivo de configuração da aplicação.
 4. Execute a aplicação utilizando o XAMPP.
